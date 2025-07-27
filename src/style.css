@@ -6,3 +6,16 @@ body {
     rgba(197, 0, 0, 1) 100%
   );
 }
+
+p {
+  text-align: center;
+}
+
+.f1-beginners {
+  max-width: 600px;
+  padding: 30px;
+  margin: 30px auto;
+  background-color: #fffdef;
+  border-radius: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
