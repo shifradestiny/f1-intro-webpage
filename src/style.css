@@ -99,3 +99,18 @@ button:hover {
 .f1-website:hover {
   text-decoration: underline #e70000;
 }
+
+.author {
+  font-size: 15px;
+  text-align: center;
+}
+
+.details {
+  color: #e70000;
+  text-decoration: none;
+  transition: all 200ms ease-in-out;
+}
+
+.details:hover {
+  text-decoration: underline #e70000;
+}
