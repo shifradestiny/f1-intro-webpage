@@ -19,3 +19,6 @@ function calendar() {
     );
   }
 }
+
+let calendarButton = document.querySelector("button");
+calendarButton.addEventListener("click", calendar);
