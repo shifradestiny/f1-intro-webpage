@@ -89,3 +89,13 @@ button:hover {
 .paragraph-four {
   font-size: 18px;
 }
+
+.f1-website {
+  color: #e70000;
+  text-decoration: none;
+  transition: all 200ms ease-in-out;
+}
+
+.f1-website:hover {
+  text-decoration: underline #e70000;
+}
