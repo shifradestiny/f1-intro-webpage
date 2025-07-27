@@ -55,3 +55,37 @@ button:hover {
   height: 50px;
   margin: 0 auto;
 }
+
+.introduction {
+  text-align: center;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.drivers {
+  max-width: 100%;
+  min-width: 300px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+.paragraph-one {
+  font-size: 18px;
+}
+
+.paragraph-two {
+  font-size: 18px;
+}
+
+.team {
+  font-weight: bolder;
+}
+
+.paragraph-three {
+  font-size: 18px;
+}
+
+.paragraph-four {
+  font-size: 18px;
+}
